@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iñaki Iturrate on Jason Omedes</title>
-    <link>https://example.com/authors/inaki-iturrate/</link>
+    <link>https://jasoromir.github.io/portfolio/authors/inaki-iturrate/</link>
     <description>Recent content in Iñaki Iturrate on Jason Omedes</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Fri, 09 Oct 2015 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://example.com/authors/inaki-iturrate/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jasoromir.github.io/portfolio/authors/inaki-iturrate/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Asynchronous Decoding of Error Potentials During the Monitoring of a Reaching Task</title>
-      <link>https://example.com/publication/conference-smc15/</link>
+      <link>https://jasoromir.github.io/portfolio/publication/conference-smc15/</link>
       <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/conference-smc15/</guid>
+      <guid>https://jasoromir.github.io/portfolio/publication/conference-smc15/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Analysis and asynchronous detection of gradually unfolding errors during monitoring tasks</title>
-      <link>https://example.com/publication/journal_asynchronous15/</link>
+      <link>https://jasoromir.github.io/portfolio/publication/journal_asynchronous15/</link>
       <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/journal_asynchronous15/</guid>
+      <guid>https://jasoromir.github.io/portfolio/publication/journal_asynchronous15/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title>Exploiting Task Constraints for Self-Calibrated Brain-Machine Interface Control Using Error-Related Potentials</title>
-      <link>https://example.com/publication/journal-selfcali/</link>
+      <link>https://jasoromir.github.io/portfolio/publication/journal-selfcali/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/journal-selfcali/</guid>
+      <guid>https://jasoromir.github.io/portfolio/publication/journal-selfcali/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h1 id=&#34;a-brief-description-of-the-research&#34;&gt;A brief description of the research:&lt;/h1&gt;
@@ -64,10 +64,10 @@ Supplementary notes can be added here, including &lt;a href=&#34;https://sourcet
     
     <item>
       <title>Asynchronous detection of error potentials</title>
-      <link>https://example.com/publication/conference-graz14/</link>
+      <link>https://jasoromir.github.io/portfolio/publication/conference-graz14/</link>
       <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/conference-graz14/</guid>
+      <guid>https://jasoromir.github.io/portfolio/publication/conference-graz14/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -76,10 +76,10 @@ Supplementary notes can be added here, including &lt;a href=&#34;https://sourcet
     
     <item>
       <title>Brain connectivity in continuous error tasks</title>
-      <link>https://example.com/publication/conference-embc14/</link>
+      <link>https://jasoromir.github.io/portfolio/publication/conference-embc14/</link>
       <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/conference-embc14/</guid>
+      <guid>https://jasoromir.github.io/portfolio/publication/conference-embc14/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -88,10 +88,10 @@ Supplementary notes can be added here, including &lt;a href=&#34;https://sourcet
     
     <item>
       <title>Detection of event-less error related potentials</title>
-      <link>https://example.com/publication/conference-iros13/</link>
+      <link>https://jasoromir.github.io/portfolio/publication/conference-iros13/</link>
       <pubDate>Sun, 03 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/conference-iros13/</guid>
+      <guid>https://jasoromir.github.io/portfolio/publication/conference-iros13/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -100,10 +100,10 @@ Supplementary notes can be added here, including &lt;a href=&#34;https://sourcet
     
     <item>
       <title>Shared control of a robot using EEG-based feedback signals</title>
-      <link>https://example.com/publication/conference-ijcai13/</link>
+      <link>https://jasoromir.github.io/portfolio/publication/conference-ijcai13/</link>
       <pubDate>Sat, 03 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/conference-ijcai13/</guid>
+      <guid>https://jasoromir.github.io/portfolio/publication/conference-ijcai13/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -112,10 +112,10 @@ Supplementary notes can be added here, including &lt;a href=&#34;https://sourcet
     
     <item>
       <title>Using frequency-domain features for the generalization of EEG error-related potentials among different tasks</title>
-      <link>https://example.com/publication/conference-embc13/</link>
+      <link>https://jasoromir.github.io/portfolio/publication/conference-embc13/</link>
       <pubDate>Wed, 03 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/conference-embc13/</guid>
+      <guid>https://jasoromir.github.io/portfolio/publication/conference-embc13/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
