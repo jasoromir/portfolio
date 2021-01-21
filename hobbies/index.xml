@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hobbies on Jason Omedes</title>
-    <link>https://jasoromir.github.io/portfolio/hobbies/</link>
+    <link>https://example.com/hobbies/</link>
     <description>Recent content in Hobbies on Jason Omedes</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://jasoromir.github.io/portfolio/hobbies/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://example.com/hobbies/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HEALTH &amp; FITNESS</title>
-      <link>https://jasoromir.github.io/portfolio/hobbies/fitness/</link>
+      <link>https://example.com/hobbies/fitness/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jasoromir.github.io/portfolio/hobbies/fitness/</guid>
+      <guid>https://example.com/hobbies/fitness/</guid>
       <description>&lt;h2 id=&#34;some-activities-that-i-really-enjoy&#34;&gt;Some activities that I really enjoy&lt;/h2&gt;
 
 
@@ -44,8 +44,8 @@
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jasoromir.github.io/portfolio/hobbies/fitness/gallery/box.jpg&#34; &gt;
-  &lt;img src=&#34;https://jasoromir.github.io/portfolio/hobbies/fitness/gallery/box_hu3405da99fccfcd87605391e04eec3306_1952813_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://example.com/hobbies/fitness/gallery/box.jpg&#34; &gt;
+  &lt;img src=&#34;https://example.com/hobbies/fitness/gallery/box_hu3405da99fccfcd87605391e04eec3306_1952813_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -55,8 +55,8 @@
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jasoromir.github.io/portfolio/hobbies/fitness/gallery/featured.png&#34; &gt;
-  &lt;img src=&#34;https://jasoromir.github.io/portfolio/hobbies/fitness/gallery/featured_hu6af42ddbd7ab0ac418cf4f8614bd03f8_2467521_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://example.com/hobbies/fitness/gallery/featured.png&#34; &gt;
+  &lt;img src=&#34;https://example.com/hobbies/fitness/gallery/featured_hu6af42ddbd7ab0ac418cf4f8614bd03f8_2467521_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -67,15 +67,15 @@
     
     <item>
       <title>TRAVELLING</title>
-      <link>https://jasoromir.github.io/portfolio/hobbies/travelling/</link>
+      <link>https://example.com/hobbies/travelling/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jasoromir.github.io/portfolio/hobbies/travelling/</guid>
+      <guid>https://example.com/hobbies/travelling/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Here, I share a list of stories I have written about my experiences of my backpacking journey. What it was intended to be a 6 months break turned into a 1 and a half year adventure in the South East of Asia.&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog_travel/1thailand/&#34;&gt;
+&lt;th&gt;&lt;a href=&#34;https://example.com/blog_travel/1thailand/&#34;&gt;
 
 
 
@@ -83,7 +83,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://jasoromir.github.io/portfolio/blog_travel/1thailand/photos/cover.jpg&#34; &gt;
+&lt;img src=&#34;https://example.com/blog_travel/1thailand/photos/cover.jpg&#34; &gt;
 
 
 
@@ -94,7 +94,7 @@
 
 &lt;/figure&gt;
 &lt;/a&gt;&lt;/th&gt;
-&lt;th&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog_travel/2laos/&#34;&gt;
+&lt;th&gt;&lt;a href=&#34;https://example.com/blog_travel/2laos/&#34;&gt;
 
 
 
@@ -102,7 +102,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://jasoromir.github.io/portfolio/blog_travel/2laos/photos/cover.jpg&#34; &gt;
+&lt;img src=&#34;https://example.com/blog_travel/2laos/photos/cover.jpg&#34; &gt;
 
 
 
@@ -113,7 +113,7 @@
 
 &lt;/figure&gt;
  &lt;/a&gt;&lt;/th&gt;
-&lt;th&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog_travel/3cambodia/&#34;&gt;
+&lt;th&gt;&lt;a href=&#34;https://example.com/blog_travel/3cambodia/&#34;&gt;
 
 
 
@@ -121,7 +121,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://jasoromir.github.io/portfolio/blog_travel/3cambodia/photos/cover.jpg&#34; &gt;
+&lt;img src=&#34;https://example.com/blog_travel/3cambodia/photos/cover.jpg&#34; &gt;
 
 
 
@@ -136,7 +136,7 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog_travel/4thailand/&#34;&gt;
+&lt;td&gt;&lt;a href=&#34;https://example.com/blog_travel/4thailand/&#34;&gt;
 
 
 
@@ -144,7 +144,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://jasoromir.github.io/portfolio/blog_travel/4thailand/photos/cover.jpg&#34; &gt;
+&lt;img src=&#34;https://example.com/blog_travel/4thailand/photos/cover.jpg&#34; &gt;
 
 
 
@@ -155,7 +155,7 @@
 
 &lt;/figure&gt;
 &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog_travel/5malaysia/&#34;&gt;
+&lt;td&gt;&lt;a href=&#34;https://example.com/blog_travel/5malaysia/&#34;&gt;
 
 
 
@@ -163,7 +163,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://jasoromir.github.io/portfolio/blog_travel/5malaysia/photos/cover.jpg&#34; &gt;
+&lt;img src=&#34;https://example.com/blog_travel/5malaysia/photos/cover.jpg&#34; &gt;
 
 
 
@@ -174,7 +174,7 @@
 
 &lt;/figure&gt;
  &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog_travel/6singapore/&#34;&gt;
+&lt;td&gt;&lt;a href=&#34;https://example.com/blog_travel/6singapore/&#34;&gt;
 
 
 
@@ -182,7 +182,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://jasoromir.github.io/portfolio/blog_travel/6singapore/photos/cover.jpg&#34; &gt;
+&lt;img src=&#34;https://example.com/blog_travel/6singapore/photos/cover.jpg&#34; &gt;
 
 
 
@@ -195,7 +195,7 @@
 &lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog_travel/7indonesia/&#34;&gt;
+&lt;td&gt;&lt;a href=&#34;https://example.com/blog_travel/7indonesia/&#34;&gt;
 
 
 
@@ -203,7 +203,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://jasoromir.github.io/portfolio/blog_travel/7indonesia/photos/cover.jpg&#34; &gt;
+&lt;img src=&#34;https://example.com/blog_travel/7indonesia/photos/cover.jpg&#34; &gt;
 
 
 
@@ -214,7 +214,7 @@
 
 &lt;/figure&gt;
 &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog_travel/8thailand/&#34;&gt;
+&lt;td&gt;&lt;a href=&#34;https://example.com/blog_travel/8thailand/&#34;&gt;
 
 
 
@@ -222,7 +222,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://jasoromir.github.io/portfolio/blog_travel/8thailand/photos/cover.jpg&#34; &gt;
+&lt;img src=&#34;https://example.com/blog_travel/8thailand/photos/cover.jpg&#34; &gt;
 
 
 
@@ -233,7 +233,7 @@
 
 &lt;/figure&gt;
  &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog_travel/9myanmar/&#34;&gt;
+&lt;td&gt;&lt;a href=&#34;https://example.com/blog_travel/9myanmar/&#34;&gt;
 
 
 
@@ -241,7 +241,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://jasoromir.github.io/portfolio/blog_travel/9myanmar/photos/cover.jpg&#34; &gt;
+&lt;img src=&#34;https://example.com/blog_travel/9myanmar/photos/cover.jpg&#34; &gt;
 
 
 
@@ -254,7 +254,7 @@
 &lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog_travel/10kohphangan/&#34;&gt;
+&lt;td&gt;&lt;a href=&#34;https://example.com/blog_travel/10kohphangan/&#34;&gt;
 
 
 
@@ -262,7 +262,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://jasoromir.github.io/portfolio/blog_travel/10kohphangan/photos/cover.jpg&#34; &gt;
+&lt;img src=&#34;https://example.com/blog_travel/10kohphangan/photos/cover.jpg&#34; &gt;
 
 
 
@@ -283,10 +283,10 @@
     
     <item>
       <title>VOLUNTEERING</title>
-      <link>https://jasoromir.github.io/portfolio/hobbies/volunteering/</link>
+      <link>https://example.com/hobbies/volunteering/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jasoromir.github.io/portfolio/hobbies/volunteering/</guid>
+      <guid>https://example.com/hobbies/volunteering/</guid>
       <description></description>
     </item>
     

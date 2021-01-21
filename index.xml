@@ -2,68 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jason Omedes</title>
-    <link>https://jasoromir.github.io/portfolio/</link>
+    <link>https://example.com/</link>
     <description>Recent content on Jason Omedes</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://jasoromir.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Publications</title>
-      <link>https://jasoromir.github.io/portfolio/publication/</link>
+      <link>https://example.com/publication/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jasoromir.github.io/portfolio/publication/</guid>
+      <guid>https://example.com/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topics</title>
-      <link>https://jasoromir.github.io/portfolio/blog/</link>
+      <link>https://example.com/blog/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://jasoromir.github.io/portfolio/blog/</guid>
+      <guid>https://example.com/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topics</title>
-      <link>https://jasoromir.github.io/portfolio/blog_travel/</link>
+      <link>https://example.com/blog_travel/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://jasoromir.github.io/portfolio/blog_travel/</guid>
+      <guid>https://example.com/blog_travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://jasoromir.github.io/portfolio/privacy/</link>
+      <link>https://example.com/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://jasoromir.github.io/portfolio/privacy/</guid>
+      <guid>https://example.com/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://jasoromir.github.io/portfolio/project/</link>
+      <link>https://example.com/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jasoromir.github.io/portfolio/project/</guid>
+      <guid>https://example.com/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hobbies</title>
-      <link>https://jasoromir.github.io/portfolio/hobbies/</link>
+      <link>https://example.com/hobbies/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jasoromir.github.io/portfolio/hobbies/</guid>
+      <guid>https://example.com/hobbies/</guid>
       <description></description>
     </item>
     
