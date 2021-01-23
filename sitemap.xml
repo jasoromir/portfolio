@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://jasoromir.github.io/portfolio/blog/machine_learning/classification/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jasoromir.github.io/portfolio/blog_travel/2laos/huayxai/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -108,11 +113,6 @@
   </url>
   
   <url>
-    <loc>https://jasoromir.github.io/portfolio/blog/machine_learning/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jasoromir.github.io/portfolio/blog_travel/3cambodia/siemreap/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -148,12 +148,52 @@
   </url>
   
   <url>
+    <loc>https://jasoromir.github.io/portfolio/blog/machine_learning/clustering/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/blog/deep_learning/cnn/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/blog/machine_learning/dimred/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/blog/machine_learning/gmm/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/blog/deep_learning/gru/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/blog/deep_learning/lstm/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jasoromir.github.io/portfolio/blog/deep_learning/mlp/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jasoromir.github.io/portfolio/blog/machine_learning/example2/</loc>
+    <loc>https://jasoromir.github.io/portfolio/blog/machine_learning/regression/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/blog/deep_learning/resnet/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/blog/machine_learning/svm/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -163,7 +203,12 @@
   </url>
   
   <url>
-    <loc>https://jasoromir.github.io/portfolio/blog/machine_learning/example3/</loc>
+    <loc>https://jasoromir.github.io/portfolio/blog/deep_learning/transformers/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/blog/deep_learning/vae/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -219,6 +264,11 @@
   
   <url>
     <loc>https://jasoromir.github.io/portfolio/blog_travel/8thailand/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/blog/neuroscience/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   

@@ -6,7 +6,7 @@
     <description>Recent content in Topics on Jason Omedes</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; {year}</copyright>
+    <copyright>Jason Omedes &amp;copy; {year}</copyright>
     <lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="https://jasoromir.github.io/portfolio/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -18,31 +18,119 @@
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://jasoromir.github.io/portfolio/blog/machine_learning/</guid>
-      <description>&lt;h2 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h2&gt;
-&lt;p&gt;This feature can be used for publishing content such as:&lt;/p&gt;
+      <description>&lt;h2 id=&#34;what-is-machine-learning&#34;&gt;What is Machine Learning?&lt;/h2&gt;
+&lt;p&gt;Machine learning (ML) uses to be categorized as a subfield of artificial intelligence (AI). Fundamentally, machine learning involves building mathematical models to help understand data. Once these models have been fit to previously seen data, they can be used to predict and understand aspects of newly observed data.&lt;/p&gt;
+&lt;h2 id=&#34;categories-of-machine-learning&#34;&gt;Categories of Machine Learning&lt;/h2&gt;
+&lt;p&gt;At the most fundamental level, machine learning can be categorized into two main types: Supervised Learning and Unsupervised Learning. And one more special case known as Reinforcement Learning.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Online courses&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Project or software documentation&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tutorials&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Supervised learning&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt; involves somehow modeling the relationship between measured features of data and some label associated with the data; once this model is determined, it can be used to apply labels to new, unknown data. This is further subdivided into &lt;strong&gt;Classification&lt;/strong&gt; tasks and &lt;strong&gt;Regression&lt;/strong&gt; tasks. In classification, the labels are discrete categories, while in regression, the labels are continuous quantities.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Unsupervised learning&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt; involves modeling the features of a dataset without reference to any label, and is often described as “letting the dataset speak for itself.” These models include tasks such as &lt;strong&gt;Clustering&lt;/strong&gt; and &lt;strong&gt;Dimensionality reduction&lt;/strong&gt;. Clustering algorithms identify distinct groups of data, while dimensionality reduction algorithms search for more succinct representations of the data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Reinforcement learning&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt; we have an agent and it receive a reward or punishment depending on its current state and action.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The &lt;code&gt;courses&lt;/code&gt; folder may be renamed. For example, we can rename it to &lt;code&gt;docs&lt;/code&gt; for software/project documentation or &lt;code&gt;tutorials&lt;/code&gt; for creating an online course.&lt;/p&gt;
-&lt;h2 id=&#34;delete-tutorials&#34;&gt;Delete tutorials&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;To remove these pages, delete the &lt;code&gt;courses&lt;/code&gt; folder and see below to delete the associated menu link.&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;update-site-menu&#34;&gt;Update site menu&lt;/h2&gt;
-&lt;p&gt;After renaming or deleting the &lt;code&gt;courses&lt;/code&gt; folder, you may wish to update any &lt;code&gt;[[main]]&lt;/code&gt; menu links to it by editing your menu configuration at &lt;code&gt;config/_default/menus.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;For example, if you delete this folder, you can remove the following from your menu configuration:&lt;/p&gt;
+&lt;h2 id=&#34;principal-ml-applications&#34;&gt;Principal ML Applications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog/machine_learning/classification&#34;&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Classification:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;
+Models that predict labels as two or more discrete categories. &lt;a href=&#34;https://jasoromir.github.io/portfolio/blog/machine_learning/classification&#34;&gt;&lt;strong&gt;Know more&lt;/strong&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog/machine_learning/regression&#34;&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Regression:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;
+Models that predict continuous labels. &lt;a href=&#34;https://jasoromir.github.io/portfolio/blog/machine_learning/regression&#34;&gt;&lt;strong&gt;Know more&lt;/strong&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog/machine_learning/clustering&#34;&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Clustering:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;
+Models that detect and identify distinct groups in the data. &lt;a href=&#34;https://jasoromir.github.io/portfolio/blog/machine_learning/clustering&#34;&gt;&lt;strong&gt;Know more&lt;/strong&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog/machine_learning/dimred&#34;&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Dimensionality reduction:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;
+Models that detect and identify lower-dimensional structure in higherdimensional data. &lt;a href=&#34;https://jasoromir.github.io/portfolio/blog/machine_learning/dimred&#34;&gt;&lt;strong&gt;Know more&lt;/strong&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ml-models&#34;&gt;ML Models&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Naive Bayes:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog/machine_learning/svm&#34;&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Support Vector Machines (SVM):&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Decission Trees:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Random Forest:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;K Nearest Neighbors:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;K-Means:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog/machine_learning/gmm&#34;&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Gaussian Mixture Models (GMM):&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Principal Component Analysis:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;t-SNE:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ml-technicalities&#34;&gt;ML Technicalities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Overfitting:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Underfitting:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Bias:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Variance:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Cross-Validation:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Normalization:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;other-methods&#34;&gt;Other methods&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Boosting:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Bagging:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;code&gt;Classification:&lt;/code&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;related-projects&#34;&gt;Related projects&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;my_func&lt;/span&gt;(input)
   name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Courses&amp;#34;&lt;/span&gt;
   url &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;courses/&amp;#34;&lt;/span&gt;
   weight &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;50&lt;/span&gt;
   &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; weight
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Or, if you are creating a software documentation site, you can rename the &lt;code&gt;courses&lt;/code&gt; folder to &lt;code&gt;docs&lt;/code&gt; and update the associated &lt;em&gt;Courses&lt;/em&gt; menu configuration to:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sql&#34; data-lang=&#34;sql&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;SELECT&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sql&#34; data-lang=&#34;sql&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;SELECT&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;
 &lt;span style=&#34;color:#66d9ef&#34;&gt;FROM&lt;/span&gt; tutorial.houses
 &lt;span style=&#34;color:#66d9ef&#34;&gt;WHERE&lt;/span&gt; price &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;50&lt;/span&gt;
 &lt;span style=&#34;color:#66d9ef&#34;&gt;ORDER&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;BY&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;size&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;update-the-docs-menu&#34;&gt;Update the docs menu&lt;/h2&gt;
-&lt;p&gt;If you use the &lt;em&gt;docs&lt;/em&gt; layout, note that the name of the menu in the front matter should be in the form &lt;code&gt;[menu.X]&lt;/code&gt; where &lt;code&gt;X&lt;/code&gt; is the folder name. Hence, if you rename the &lt;code&gt;courses/example/&lt;/code&gt; folder, you should also rename the menu definitions in the front matter of files within &lt;code&gt;courses/example/&lt;/code&gt; from &lt;code&gt;[menu.example]&lt;/code&gt; to &lt;code&gt;[menu.&amp;lt;NewFolderName&amp;gt;]&lt;/code&gt;.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bishop&lt;/li&gt;
+&lt;li&gt;O&amp;rsquo;reilly Python data science Handbook&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog&#34;&gt;Back to general topics&lt;/a&gt;:&lt;/p&gt;
 </description>
     </item>
     
@@ -52,30 +140,8 @@
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://jasoromir.github.io/portfolio/blog/data_visualization/</guid>
-      <description>&lt;h2 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h2&gt;
-&lt;p&gt;This feature can be used for publishing content such as:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Online courses&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Project or software documentation&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tutorials&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The &lt;code&gt;courses&lt;/code&gt; folder may be renamed. For example, we can rename it to &lt;code&gt;docs&lt;/code&gt; for software/project documentation or &lt;code&gt;tutorials&lt;/code&gt; for creating an online course.&lt;/p&gt;
-&lt;h2 id=&#34;delete-tutorials&#34;&gt;Delete tutorials&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;To remove these pages, delete the &lt;code&gt;courses&lt;/code&gt; folder and see below to delete the associated menu link.&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;update-site-menu&#34;&gt;Update site menu&lt;/h2&gt;
-&lt;p&gt;After renaming or deleting the &lt;code&gt;courses&lt;/code&gt; folder, you may wish to update any &lt;code&gt;[[main]]&lt;/code&gt; menu links to it by editing your menu configuration at &lt;code&gt;config/_default/menus.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;For example, if you delete this folder, you can remove the following from your menu configuration:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;[[&lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;]]
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Courses&amp;#34;&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;url&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;courses/&amp;#34;&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;weight&lt;/span&gt; = &lt;span style=&#34;color:#ae81ff&#34;&gt;50&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Or, if you are creating a software documentation site, you can rename the &lt;code&gt;courses&lt;/code&gt; folder to &lt;code&gt;docs&lt;/code&gt; and update the associated &lt;em&gt;Courses&lt;/em&gt; menu configuration to:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;[[&lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;]]
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Docs&amp;#34;&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;url&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;docs/&amp;#34;&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;weight&lt;/span&gt; = &lt;span style=&#34;color:#ae81ff&#34;&gt;50&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;update-the-docs-menu&#34;&gt;Update the docs menu&lt;/h2&gt;
-&lt;p&gt;If you use the &lt;em&gt;docs&lt;/em&gt; layout, note that the name of the menu in the front matter should be in the form &lt;code&gt;[menu.X]&lt;/code&gt; where &lt;code&gt;X&lt;/code&gt; is the folder name. Hence, if you rename the &lt;code&gt;courses/example/&lt;/code&gt; folder, you should also rename the menu definitions in the front matter of files within &lt;code&gt;courses/example/&lt;/code&gt; from &lt;code&gt;[menu.example]&lt;/code&gt; to &lt;code&gt;[menu.&amp;lt;NewFolderName&amp;gt;]&lt;/code&gt;.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;work-in-progress&#34;&gt;Work in progress&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog&#34;&gt;Back to general topics&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -86,6 +152,18 @@
       
       <guid>https://jasoromir.github.io/portfolio/blog/deep_learning/</guid>
       <description>&lt;h2 id=&#34;work-in-progress&#34;&gt;WORK IN PROGRESS&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog&#34;&gt;Back to general topics&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neuroscience</title>
+      <link>https://jasoromir.github.io/portfolio/blog/neuroscience/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoromir.github.io/portfolio/blog/neuroscience/</guid>
+      <description>&lt;h2 id=&#34;work-in-progress&#34;&gt;WORK IN PROGRESS&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://jasoromir.github.io/portfolio/blog&#34;&gt;Back to general topics&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
