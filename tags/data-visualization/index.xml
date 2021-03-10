@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Visualization on Jason Omedes</title>
+    <link>https://jasoromir.github.io/portfolio/tags/data-visualization/</link>
+    <description>Recent content in Data Visualization on Jason Omedes</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Jason Omedes &amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jasoromir.github.io/portfolio/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stock Trading API</title>
+      <link>https://jasoromir.github.io/portfolio/project/project2/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoromir.github.io/portfolio/project/project2/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Under development&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;components&#34;&gt;Components&lt;/h2&gt;
+&lt;p&gt;This project involves:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Interacting with Alpaca API&lt;/li&gt;
+&lt;li&gt;Data processing and visualization&lt;/li&gt;
+&lt;li&gt;Interacting (pulling and inserting data) with a database&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more details visit the &lt;a href=&#34;https://github.com/jasoromir/stock-trading-app&#34;&gt;GitHub page&lt;/a&gt; associated to this project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Analysis Dashboard</title>
+      <link>https://jasoromir.github.io/portfolio/project/project3/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoromir.github.io/portfolio/project/project3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

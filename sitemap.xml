@@ -273,6 +273,51 @@
   </url>
   
   <url>
+    <loc>https://jasoromir.github.io/portfolio/tags/databases/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/tags/machine-learning/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/project/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/project/project1/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/tags/selected/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/tags/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/tags/data-visualization/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/project/project2/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jasoromir.github.io/portfolio/publication_types/2/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
   </url>
@@ -318,11 +363,6 @@
   </url>
   
   <url>
-    <loc>https://jasoromir.github.io/portfolio/</loc>
-    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jasoromir.github.io/portfolio/tags/nmes/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
   </url>
@@ -334,11 +374,6 @@
   
   <url>
     <loc>https://jasoromir.github.io/portfolio/publication/</loc>
-    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasoromir.github.io/portfolio/tags/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -408,11 +443,6 @@
   </url>
   
   <url>
-    <loc>https://jasoromir.github.io/portfolio/tags/machine-learning/</loc>
-    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jasoromir.github.io/portfolio/publication_types/1/</loc>
     <lastmod>2017-07-11T00:00:00+00:00</lastmod>
   </url>
@@ -423,27 +453,17 @@
   </url>
   
   <url>
-    <loc>https://jasoromir.github.io/portfolio/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasoromir.github.io/portfolio/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasoromir.github.io/portfolio/project/project1/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasoromir.github.io/portfolio/project/project2/</loc>
+    <loc>https://jasoromir.github.io/portfolio/project/project6/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jasoromir.github.io/portfolio/project/project3/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasoromir.github.io/portfolio/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -458,22 +478,7 @@
   </url>
   
   <url>
-    <loc>https://jasoromir.github.io/portfolio/project/project6/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasoromir.github.io/portfolio/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jasoromir.github.io/portfolio/tags/robotics/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jasoromir.github.io/portfolio/tags/selected/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   

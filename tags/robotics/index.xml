@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>robotics on Jason Omedes</title>
+    <title>Robotics on Jason Omedes</title>
     <link>https://jasoromir.github.io/portfolio/tags/robotics/</link>
-    <description>Recent content in robotics on Jason Omedes</description>
+    <description>Recent content in Robotics on Jason Omedes</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Jason Omedes &amp;copy; {year}</copyright>
@@ -11,15 +11,6 @@
     
 	    <atom:link href="https://jasoromir.github.io/portfolio/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Project 1</title>
-      <link>https://jasoromir.github.io/portfolio/project/project1/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasoromir.github.io/portfolio/project/project1/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Project 3</title>

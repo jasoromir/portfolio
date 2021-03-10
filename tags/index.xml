@@ -7,10 +7,46 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Jason Omedes &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://jasoromir.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DataBases</title>
+      <link>https://jasoromir.github.io/portfolio/tags/databases/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoromir.github.io/portfolio/tags/databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://jasoromir.github.io/portfolio/tags/machine-learning/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoromir.github.io/portfolio/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SELECTED</title>
+      <link>https://jasoromir.github.io/portfolio/tags/selected/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoromir.github.io/portfolio/tags/selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>https://jasoromir.github.io/portfolio/tags/data-visualization/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoromir.github.io/portfolio/tags/data-visualization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Brain Machine Interfaces</title>
@@ -49,15 +85,6 @@
     </item>
     
     <item>
-      <title>Machine Learning</title>
-      <link>https://jasoromir.github.io/portfolio/tags/machine-learning/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasoromir.github.io/portfolio/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep Learning</title>
       <link>https://jasoromir.github.io/portfolio/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -67,29 +94,11 @@
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>https://jasoromir.github.io/portfolio/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasoromir.github.io/portfolio/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>robotics</title>
+      <title>Robotics</title>
       <link>https://jasoromir.github.io/portfolio/tags/robotics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://jasoromir.github.io/portfolio/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SELECTED</title>
-      <link>https://jasoromir.github.io/portfolio/tags/selected/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasoromir.github.io/portfolio/tags/selected/</guid>
       <description></description>
     </item>
     
